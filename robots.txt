@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cmada92.github.io/cm-creative-code/sitemap.xml
