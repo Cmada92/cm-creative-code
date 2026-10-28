@@ -453,6 +453,9 @@ const translations = {
 
         /* CM CARE */
 
+care_subscription:
+    "ABONAMENT",
+
         care_after:
             "DUPĂ LANSARE",
 
@@ -984,6 +987,9 @@ footer_top:
         custom_button:
             "Request a quote",
 
+            care_subscription:
+    "SUBSCRIPTION",
+    
         care_after:
             "AFTER LAUNCH",
 
@@ -1510,6 +1516,9 @@ footer_top:
 
         custom_button:
             "Angebot anfordern",
+
+care_subscription:
+    "ABONNEMENT",
 
         care_after:
             "NACH DEM LAUNCH",
@@ -2038,6 +2047,9 @@ footer_top:
 
         custom_button:
             "Richiedi un preventivo",
+
+care_subscription:
+    "ABBONAMENTO",
 
         care_after:
             "DOPO IL LANCIO",
